@@ -1,5 +1,5 @@
 ### Hello, i'm Giovane - Data Science graduate student👋
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/giovane-miranda)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/giovane-miranda)]
 
 - 🔭 Bachelor's degree in **Computer Engineering** at FSA
 - 🌱 I’m currently learning **Data Science** at IGTI
@@ -33,5 +33,6 @@ Technologies I've been learning and using so far
  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
  
  ## Github Stats
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovaneMiranda&theme=dark&show_icons=true)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=giovaneMiranda&theme=dark&show_icons=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneMiranda&layout=compact)
   
