@@ -34,5 +34,5 @@ Technologies I've been learning and using so far
  
  ## Github Stats
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=giovaneMiranda&theme=dark&show_icons=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneMiranda&layout=compact)
+
   
