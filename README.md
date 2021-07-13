@@ -1,4 +1,5 @@
 ### Hello, i'm Giovane - Data Science graduate student👋
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovane-miranda)
 
 - 🔭 Bachelor's degree in **Computer Engineering** at FSA
