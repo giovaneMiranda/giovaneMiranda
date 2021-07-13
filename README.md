@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**giovaneMiranda/giovaneMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 Bachelor's degree in **Computer Engineering** at FSA
 - 🌱 I’m currently learning **Data Science** at IGTI
 - ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
