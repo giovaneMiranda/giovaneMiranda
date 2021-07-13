@@ -12,7 +12,7 @@
 Technologies I've been learning and using so far 
 
 - Programming languages : <br />
- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 - Machine Learning / Deep Learning frameworks : <br />
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
