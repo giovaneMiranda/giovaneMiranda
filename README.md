@@ -4,7 +4,7 @@
 - 🔭 Bachelor's degree in **Computer Engineering** at FSA
 - 🌱 I’m currently learning **Data Science** at IGTI
 - ⚙️ Mastering: `.py`, `ML`,
-- 💬 I'm mostly active within the **Python**, **R**, ***Statistic*** communities
+- 💬 I'm mostly active within the **Python**, **R**, ***Data Analysis*** communities
 - 📍 Sao Paulo, SP. Brazil
 
 ## ⚡ Technologies
