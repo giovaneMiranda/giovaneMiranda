@@ -32,7 +32,7 @@ Technologies I've been learning and using so far
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
  
- ## Github Stats
+ ## 📊 Github Stats
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=giovaneMiranda&theme=dark&show_icons=true)
 
   
