@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovane-miranda)
 
 - 🔭 Bachelor's degree in **Computer Engineering** at FSA
-- 🌱 I’m currently learning **Data Science** at IGTI
+- 🌱 MBA in **Data Science** at IGTI
 - ⚙️ Mastering: `.py`, `ML`,
 - 💬 I'm mostly active within the **Python**, **R**, ***Data Analysis*** communities
 - 📍 Sao Paulo, SP. Brazil
